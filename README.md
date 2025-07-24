@@ -28,6 +28,6 @@ This dataset can be used for:
 
 ## 🙏 Acknowledgements
 
-The comments used in this dataset were obtained via the YouTube Data API. The authors thank annotators for their contribution to data labeling.
+The comments used in this dataset were obtained via the YouTube Data API.
 
 
